@@ -1,6 +1,4 @@
-# Shivam-Shukla
-Shivam Shukla | Skills | Goals | Personal Description
-<h1 align="center">Hey, I'm [Your Name] 👋</h1>
+<h1 align="center">Hey, I'm Shivam Shukla 👋</h1>
 <p align="center">
   🔧 Builder • 🧠 Problem Solver • 💻 Full Stack Dev in Progress  
 </p>
